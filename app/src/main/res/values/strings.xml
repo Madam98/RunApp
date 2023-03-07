@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Trasy Kołobrzega</string>
+    <string name="title_item_detail">Szczegóły</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="_0">0</string>
+    <string name="reset">Reset</string>
+    <string name="save">Save</string>
+</resources>
